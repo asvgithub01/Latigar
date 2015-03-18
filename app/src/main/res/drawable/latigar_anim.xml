@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+
+        <item android:drawable="@drawable/ic_animzero" android:duration="120" />
+        <item android:drawable="@drawable/ic_animuno" android:duration="120" />
+        <item android:drawable="@drawable/ic_animdos" android:duration="120" />
+        <item android:drawable="@drawable/ic_animtres" android:duration="80" />
+        <item android:drawable="@drawable/ic_animcuatro" android:duration="80" />
+
+        <!--<item android:drawable="@drawable/ic_animcinco" android:duration="210" />-->
+        <!--<item android:drawable="@drawable/ic_animseis" android:duration="210" />-->
+        <!--<item android:drawable="@drawable/ic_animsiete" android:duration="210" />-->
+        <!--<item android:drawable="@drawable/ic_animocho" android:duration="210" />-->
+
+</animation-list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+
+    <item android:drawable="@drawable/ic_animcinco" android:duration="10" />
+    <item android:drawable="@drawable/ic_animseis" android:duration="20" />
+    <item android:drawable="@drawable/ic_animsiete" android:duration="30" />
+    <item android:drawable="@drawable/ic_animocho" android:duration="210" />
+    <!--<item android:drawable="@drawable/ic_animoluno" android:duration="110" />-->
+    <!--<item android:drawable="@drawable/ic_animoldos" android:duration="210" />-->
+</animation-list>
